@@ -50,7 +50,7 @@
       "node_modules"
     ]
   },
-  "author": "vivasnoic <alejandro.vivas.a@gmail.com>",
+  "author": "vivasnoic",
   "license": "MIT",
   "devDependencies": {
     "babel-core": "6.18.2",
